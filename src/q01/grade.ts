@@ -18,5 +18,6 @@ else if (input <50 && input >= 0 ) {
     console.log("Grade is F")
 }
 else {
-    console.log("Invalid input")
+    console.log("Invalid Input")
 }
+
